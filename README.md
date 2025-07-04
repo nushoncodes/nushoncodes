@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**nushoncodes/nushoncodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Anushka 👋
 
-Here are some ideas to get you started:
+I'm a first-year student learning C programming and exploring open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing Now:
+- 📚 Learning C
+- 🧠 Exploring Git & GitHub from scratch
+- 💻 Planning to contribute to open source soon
+
+### 📈 My Goals:
+- Contribute to beginner-friendly open source projects
+- Build mini C projects and share my learning
+- Be ready for GSoC 2026 💡
+
+> “Start where you are. Use what you have. Do what you can.”
+>  – Arthur Ashe
